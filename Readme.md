@@ -69,5 +69,5 @@
 
 # 6、Front End
 
-* Vue,js
+* Vue.js
 
